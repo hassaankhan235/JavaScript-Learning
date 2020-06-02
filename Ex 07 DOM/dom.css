@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    text-shadow: 4px 4px 3px gray;
+}
+.yel {
+    display: inline-block;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.gre {
+    display: inline-block;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+}
+p {
+    color: teal;
+    font-size: 2em;
+}
